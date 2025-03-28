@@ -16,13 +16,24 @@ I'm **Jitendra Kumar** – a passionate developer dedicated to crafting innovati
 </p>
 
 ### 🌟 Soft Skills
-- **Communication**  
-- **Collaboration**  
+- **Collaboration**
 - **Problem-Solving**
 
 ### 🏆 Achievements
-- **Co-author of an IoT Research Paper**  
-- Actively innovating in **E-commerce**, **Masala Business Management**, and **Admin Panel Development**
+- **Co-author of an IoT Research Paper**
+- Actively innovating in **E-commerce**, **Admin Panel Development**, and **Portfolio Administration**
+
+---
+
+## Connect with Me
+<p align="center">
+  <a href="[https://www.linkedin.com/in/jitendra-kumar](https://www.linkedin.com/in/jitendra-k-322662193/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.jitendrakumar.com" target="_blank">
+    <img src="[https://img.shields.io/badge](https://www.jitendra.site/)/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  </a>
+</p>
 
 ---
 
@@ -31,11 +42,8 @@ I'm **Jitendra Kumar** – a passionate developer dedicated to crafting innovati
 ### 🛍️ E-commerce Clothing Brand Website
 A sleek and intuitive website built using **Vite**, **MongoDB**, and **Tailwind CSS** that offers a seamless shopping experience.
 
-### 🌶️ Spice Masala Business App
-A dynamic pricing application tailored for the spice industry, featuring adjustable pricing models for bags and kilograms with real-time admin settings.
-
 ### 🗂️ Admin Panel Development
-A comprehensive admin dashboard providing:
+A comprehensive admin dashboard offering:
 - **Bulk product uploads**
 - **Dynamic pricing management**
 - **Invoice generation**
@@ -44,8 +52,33 @@ A comprehensive admin dashboard providing:
 
 ---
 
+## 💼 Portfolio Admin
+
+A sophisticated admin panel designed to manage every aspect of my personal portfolio. Key functionalities include:
+
+- **Add Education:**  
+  Seamlessly input academic qualifications and achievements.
+
+- **Add Projects:**  
+  Create and manage detailed project entries, complete with descriptions and links.
+
+- **Add Experiences:**  
+  Record work experiences and internships with comprehensive details.
+
+- **Update All Entries:**  
+  Edit and update every section of the portfolio to keep the information current.
+
+- **Remove All Entries:**  
+  A deletion option for cleaning up outdated or incorrect data.
+
+- **Skills Update Only:**  
+  A dedicated module to manage and update technical and soft skills independently.
+
+---
+
 ## 🚀 Future Goals
-I'm excited to integrate the **PhonePe Payment Gateway** into upcoming projects and further enhance my admin panel with advanced dynamic features. Stay tuned for more innovations!
+
+I'm excited to integrate the **PhonePe Payment Gateway** into upcoming projects and further enhance my admin panels with advanced dynamic features. Stay tuned for more innovations!
 
 ---
 
