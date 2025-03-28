@@ -27,11 +27,11 @@ I'm **Jitendra Kumar** – a passionate developer dedicated to crafting innovati
 
 ## Connect with Me
 <p align="center">
-  <a href="[https://www.linkedin.com/in/jitendra-kumar](https://www.linkedin.com/in/jitendra-k-322662193/)" target="_blank">
+  <a href="https://www.linkedin.com/in/jitendra-k-322662193/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.jitendrakumar.com" target="_blank">
-    <img src="[https://img.shields.io/badge](https://www.jitendra.site/)/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  <a href="https://www.jitendra.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
 </p>
 
