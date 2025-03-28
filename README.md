@@ -1,5 +1,7 @@
-# Hi there! 👋  
-I'm **Jitendra Kumar** – a passionate developer dedicated to crafting innovative solutions and continuously elevating my skills.
+# Jitendra Kumar
+
+Hi there! 👋  
+I'm a passionate developer dedicated to crafting innovative solutions and continuously expanding my skill set.
 
 ---
 
@@ -26,7 +28,7 @@ I'm **Jitendra Kumar** – a passionate developer dedicated to crafting innovati
 ---
 
 ## Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/jitendra-k-322662193/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -40,10 +42,10 @@ I'm **Jitendra Kumar** – a passionate developer dedicated to crafting innovati
 ## My Work
 
 ### 🛍️ E-commerce Clothing Brand Website
-A sleek and intuitive website built using **Vite**, **MongoDB**, and **Tailwind CSS** that offers a seamless shopping experience.
+A sleek and intuitive website built using **Vite**, **MongoDB**, and **Tailwind CSS** that provides a seamless shopping experience.
 
 ### 🗂️ Admin Panel Development
-A comprehensive admin dashboard offering:
+A comprehensive admin dashboard that offers:
 - **Bulk product uploads**
 - **Dynamic pricing management**
 - **Invoice generation**
@@ -54,10 +56,10 @@ A comprehensive admin dashboard offering:
 
 ## 💼 Portfolio Admin
 
-A sophisticated admin panel designed to manage every aspect of my personal portfolio. Key functionalities include:
+A sophisticated admin panel designed to manage every aspect of my personal portfolio. Key features include:
 
 - **Add Education:**  
-  Seamlessly input academic qualifications and achievements.
+  Easily input academic qualifications and achievements.
 
 - **Add Projects:**  
   Create and manage detailed project entries, complete with descriptions and links.
@@ -66,13 +68,13 @@ A sophisticated admin panel designed to manage every aspect of my personal portf
   Record work experiences and internships with comprehensive details.
 
 - **Update All Entries:**  
-  Edit and update every section of the portfolio to keep the information current.
+  Edit and update every section of the portfolio to ensure that all information is current.
 
 - **Remove All Entries:**  
-  A deletion option for cleaning up outdated or incorrect data.
+  Delete outdated or incorrect data as needed.
 
 - **Skills Update Only:**  
-  A dedicated module to manage and update technical and soft skills independently.
+  A dedicated module for managing and updating technical and soft skills independently.
 
 ---
 
